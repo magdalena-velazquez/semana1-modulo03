@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Botones</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_intent">Launch Intent Activity</string>
+    <string name="int_video">Open Video</string>
+    <string name="int_evento">Nuevo Evento</string>
+    <string name="int_temporizador">Iniciar Temporizador</string>
+    <string name="int_google">Google</string>
+</resources>
